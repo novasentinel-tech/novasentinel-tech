@@ -1,45 +1,13 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+João Pedro é um desenvolvedor Full Stack com mentalidade de engenheiro e foco estratégico em Back-End, automação de processos e organização documental corporativa. Muito além de apenas escrever código, ele constrói soluções estruturadas para resolver problemas reais dentro de empresas, especialmente em ambientes que exigem controle, padronização e eficiência operacional.
 
+Mesmo jovem, já atua como desenvolvedor backend homologado em um protótipo corporativo na DeepSea Technologies, demonstrando capacidade técnica e maturidade profissional acima da média. Seu trabalho não se limita à parte visual ou superficial dos sistemas — ele atua na arquitetura, na lógica, na estrutura de dados e na integração entre diferentes tecnologias para garantir que tudo funcione com solidez, desempenho e escalabilidade.
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+Sua experiência envolve o desenvolvimento de sistemas completos divididos em módulos estratégicos, como áreas de Produção, Gestão de Controle de NQ’s e Controle de Qualidade, além de módulos robustos de Documentação. Trabalha com construção de APIs em Flask e Node.js, integração com frontends modernos em React utilizando o template MatX, manipulação avançada de arquivos como Excel, PDF e Word, além de automação de relatórios complexos com foco em conformidade e redução de erro humano.
 
-- It's built with components from my Responsive Tools project.
+João possui forte capacidade de transformar processos manuais e repetitivos em fluxos automatizados inteligentes. Ele entende que código é ferramenta — o objetivo final é ganho de eficiência, organização estrutural e melhoria real na operação da empresa. Seu diferencial está na combinação de visão técnica, pensamento analítico e capacidade de estruturar sistemas de forma profissional, modular e expansível.
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+Entre seus projetos, destacam-se sistemas corporativos completos para gestão documental, geradores automáticos de databooks, integrações entre backend e frontend com controle de arquivos reais, recursos de drag & drop, CRUD estruturado e organização hierárquica de documentos. Seu foco constante é escalabilidade, organização e performance.
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
+Com domínio em Python, Flask, Node.js, Express, React, JavaScript, TypeScript, além de integrações com Firebase e manipulação programática de documentos, João constrói soluções com base sólida e visão de produto. Ele não desenvolve apenas funcionalidades isoladas — ele pensa em sistemas completos.
 
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Sua visão de futuro é clara: criar soluções tecnológicas que eliminem retrabalho, aumentem eficiência operacional, organizem ambientes corporativos complexos e utilizem inteligência artificial de forma estratégica e aplicada.
