@@ -8,6 +8,12 @@
 <!-- ANIMATED SUBTITLE -->
 <div align="center">
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-viana-8738142a8"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/_jaozinn_027/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/novasentinel-tech"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=580&lines=Building+intelligent+systems;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+TypeScript;Machine+Learning+pipelines+in+production;From+idea+to+architecture+to+delivery)](https://git.io/typing-svg)
 
 </div>
@@ -219,12 +225,12 @@ class JoaoPedro:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaopedroviana&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaopedroviana&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=novasentinel-tech&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=novasentinel-tech&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedroviana&theme=midnight-purple&hide_border=true" height="150em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novasentinel-tech&theme=midnight-purple&hide_border=true" height="150em"/>
 </div>
 
 <br/>
@@ -235,9 +241,9 @@ class JoaoPedro:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Pedro%20Viana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedroviana/)
-[![Gmail](https://img.shields.io/badge/Gmail-joaopedro%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-joaopedroviana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaopedroviana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Pedro%20Viana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-viana-8738142a8)
+[![Instagram](https://img.shields.io/badge/Instagram-_jaozinn__027-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jaozinn_027/)
+[![GitHub](https://img.shields.io/badge/GitHub-novasentinel--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/novasentinel-tech)
 
 </div>
 
@@ -247,7 +253,7 @@ class JoaoPedro:
 
 <div align="center">
 
-![visitor badge](https://komarev.com/ghpvc/?username=joaopedroviana&color=a78bfa&style=flat-square&label=profile+views)
+![visitor badge](https://komarev.com/ghpvc/?username=novasentinel-tech&color=a78bfa&style=flat-square&label=profile+views)
 
 **"Knowledge without execution is just theory."**
 
