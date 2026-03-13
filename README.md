@@ -1,219 +1,203 @@
+<!-- HEADER BANNER -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=João%20Pedro%20Viana&fontSize=80&animation=fadeIn&fontAlignY=38&stroke=00D4FF&strokeWidth=2&desc=Desenvolvedor%20Full%20Stack%20%7C%20IA%20%26%20Data%20Science&descAlignY=55&descAlign=50&descStroke=00BFFF&descStrokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=João%20Pedro%20Viana&fontSize=75&fontColor=ffffff&animation=blinking&fontAlignY=50&desc=Full%20Stack%20Developer%20·%20AI%20Engineer%20·%20Data%20Science&descSize=18&descAlignY=68&descColor=a78bfa)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%26+IA;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+SQL;Machine+Learning+%26+Deep+Learning;Sempre+aprendendo+e+evoluindo!+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/joaopedroviana/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:joaopedro@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/joaopedroviana"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
----
-
-## 📋 Tabela de Conteúdos
-
-[🚀 Sobre Mim](#-sobre-mim) •
-[🛠 Tech Stack](#-tech-stack) •
-[🤖 IA & Machine Learning](#-ia--machine-learning) •
-[📊 Estatísticas GitHub](#-estatísticas-github) •
-[📚 Cursos & Conquistas](#-cursos--conquistas) •
-[📞 Contato](#-contato)
-
----
-
-## 🚀 Sobre Mim
-
-Sou **João Pedro Rodrigues Viana**, desenvolvedor com forte base em **programação, ciência de dados e inteligência artificial**, formado e atuando com projetos práticos que unem teoria e execução real.
-
-Tenho experiência consolidada em linguagens como **Python, C++, JavaScript** e frameworks modernos de IA, criando soluções robustas, automações inteligentes e sistemas escaláveis do zero à produção. Minha prática abrange **desenvolvimento de software, análise de dados e criação de pipelines de IA**, com entregas em ambientes acadêmicos e profissionais.
-
-Já produzi **artigos técnicos, TCCs e projetos de pesquisa** que demonstram capacidade de estudo aprofundado e aplicação efetiva do conhecimento — não apenas teoria, mas entrega mensurável.
-
-Além das competências técnicas, me destaco por **proatividade, liderança, trabalho em equipe e comunicação eficaz**. Em ambientes de alta complexidade, aplico resolução de problemas, adaptabilidade e comprometimento com resultados.
-
-💬 Interesses: **Full Stack · Pipelines de IA · Automação · Data Science · Machine Learning · Deep Learning · Cloud**
-
----
-
-## 🛠 Tech Stack
-
-<details open>
-<summary><b>💻 Linguagens de Programação</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🎨 Frameworks & Libraries Frontend</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Frameworks & Libraries Backend</b></summary>
-<br>
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Banco de Dados & Cloud</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ DevOps & Ferramentas</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-</details>
-
----
-
-## 🤖 IA & Machine Learning
-
-<details open>
-<summary><b>🧠 Técnicas & Algoritmos</b></summary>
-<br>
-
-| Área | Tecnologias |
-|------|-------------|
-| **Machine Learning** | Regressão, Classificação, Clustering |
-| **Deep Learning** | DNNs, RNNs, CNNs |
-| **NLP & Séries Temporais** | Redes Recorrentes (RNNs, LSTMs) |
-| **Reinforcement Learning** | Aprendizado por Reforço |
-| **Algoritmos Especializados** | SVM, Algoritmos Genéticos, Bioinspirados |
-
-</details>
-
-<details open>
-<summary><b>📦 Bibliotecas & Ferramentas</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</details>
-
----
-
-## 📚 Cursos & Conquistas
-
-#### Bootcamps e Cursos Relevantes:
-
-| Curso | Área |
-|-------|------|
-| Primeiros Passos com FastAPI | Backend & APIs |
-| Modelando Sistemas Bancários em POO com Python | Python & OOP |
-| Introdução a Aplicações REST | Arquitetura Web |
-| TOTVS – Fundamentos de Engenharia de Dados e ML | Data Engineering |
-| Linguagens de Programação para Machine Learning | IA & ML |
-| Dashboards de Vendas (Xbox) com Excel | Business Intelligence |
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaopedroviana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Estatísticas GitHub"/>
-      </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaopedroviana&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
+<!-- ANIMATED SUBTITLE -->
 <div align="center">
-<p align="center"><b>Visitantes</b></p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaopedroviana&color=00d4ff&style=flat-square&label=Visualizações" alt="Contador de Visitantes"/>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=580&lines=Building+intelligent+systems;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+TypeScript;Machine+Learning+pipelines+in+production;From+idea+to+architecture+to+delivery)](https://git.io/typing-svg)
+
 </div>
+
+<br/>
 
 ---
 
-## 📞 Contato
+## `$ whoami`
+
+```python
+class JoaoPedro:
+    name        = "João Pedro Rodrigues Viana"
+    role        = ["Full Stack Developer", "AI Engineer", "Data Scientist"]
+    languages   = ["Python", "C++", "JavaScript", "TypeScript", "SQL", "Java", "C#"]
+    interests   = ["Deep Learning", "MLOps", "REST APIs", "Cloud Architecture", "Automation"]
+    currently   = "Building intelligent, scalable and real-world solutions"
+    philosophy  = "Knowledge without execution is just theory."
+```
+
+> Desenvolvedor com forte base em **programação, ciência de dados e inteligência artificial** — projetos práticos que unem teoria e execução real. Produzo artigos técnicos, TCCs e entregas que demonstram capacidade de estudo aprofundado e aplicação efetiva. Proativo, comunicativo, orientado a resultados.
+
+<br/>
+
+---
+
+## ⚡ Tech Arsenal
+
+### Languages
 
 <div align="center">
 
-### 🤝 Conecte-se Comigo
-
-| Plataforma | Link |
-|------------|------|
-| 💼 **LinkedIn** | [joaopedroviana](https://www.linkedin.com/in/joaopedroviana/) |
-| 📧 **Email** | [joaopedro@email.com](mailto:joaopedro@email.com) |
-| 🐙 **GitHub** | [joaopedroviana](https://github.com/joaopedroviana) |
-
-<p align="center">
-Tem uma oportunidade interessante? Quer colaborar em um projeto? <br/>
-Ficarei feliz em conversar! Entre em contato através dos links acima 👆
-</p>
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
+![C++](https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
+![C](https://img.shields.io/badge/C-0f0c29?style=for-the-badge&logo=c&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=a78bfa)
+![Java](https://img.shields.io/badge/Java-0f0c29?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
+![C#](https://img.shields.io/badge/C%23-0f0c29?style=for-the-badge&logo=csharp&logoColor=a78bfa)
+![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
+![HTML5](https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=a78bfa)
+![CSS3](https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=a78bfa)
 
 </div>
 
 ---
 
-## 💡 Filosofia
+### Frontend
 
-> **"Conhecimento sem execução é apenas teoria. Executo, entrego, evoluo."**
+<div align="center">
 
-_Acredito que a verdadeira competência nasce da prática. Cada projeto é uma entrega real, cada linha de código é aprendizado aplicado — e cada desafio é uma oportunidade de crescimento._
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-0f0c29?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-0f0c29?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0f0c29?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+
+</div>
+
+---
+
+### Backend
+
+<div align="center">
+
+![Django](https://img.shields.io/badge/Django-0f0c29?style=for-the-badge&logo=django&logoColor=a78bfa)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0f0c29?style=for-the-badge&logo=express&logoColor=ffffff)
+![.NET](https://img.shields.io/badge/.NET-0f0c29?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f0c29?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+
+</div>
+
+---
+
+### Databases and Cloud
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=316192)
+![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=00758F)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0f0c29?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f0c29?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Redis](https://img.shields.io/badge/Redis-0f0c29?style=for-the-badge&logo=redis&logoColor=DC382D)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-0f0c29?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
+![AWS](https://img.shields.io/badge/AWS-0f0c29?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+</div>
+
+---
+
+### DevOps and Tools
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=2496ED)
+![VS Code](https://img.shields.io/badge/VS_Code-0f0c29?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+</div>
+
+<br/>
+
+---
+
+## 🧠 AI and Machine Learning
+
+<div align="center">
+
+| Domain | Expertise |
+|---|---|
+| **Supervised Learning** | Regression · Classification · Ensembles |
+| **Unsupervised Learning** | Clustering · Dimensionality Reduction |
+| **Deep Learning** | DNNs · CNNs · RNNs · LSTMs |
+| **NLP and Sequences** | Text classification · Sequence modeling |
+| **Reinforcement Learning** | Policy optimization · Reward modeling |
+| **Specialized Algorithms** | SVM · Genetic · Bio-inspired |
+
+</div>
+
+<br/>
+
+### Libraries
+
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f0c29?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Keras](https://img.shields.io/badge/Keras-0f0c29?style=for-the-badge&logo=keras&logoColor=D00000)
+![Power BI](https://img.shields.io/badge/Power_BI-0f0c29?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+
+</div>
+
+<br/>
+
+---
+
+## 📜 Cursos e Formações
+
+```
+ TOTVS ............. Fundamentos de Engenharia de Dados e Machine Learning
+ FastAPI ........... Primeiros Passos com FastAPI
+ Python OOP ........ Modelando Sistemas Bancários com POO
+ REST APIs ......... Introdução a Aplicações REST
+ ML Languages ...... Linguagens de Programação para Machine Learning
+ Excel BI .......... Dashboards de Vendas com Excel
+```
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaopedroviana&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaopedroviana&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedroviana&theme=midnight-purple&hide_border=true" height="150em"/>
+</div>
+
+<br/>
+
+---
+
+## 📡 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Pedro%20Viana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedroviana/)
+[![Gmail](https://img.shields.io/badge/Gmail-joaopedro%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-joaopedroviana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaopedroviana)
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-**Feito por João Pedro Rodrigues Viana | © 2026**
+![visitor badge](https://komarev.com/ghpvc/?username=joaopedroviana&color=a78bfa&style=flat-square&label=profile+views)
 
-[![GitHub](https://img.shields.io/badge/GitHub-joaopedroviana-181717?style=social&logo=github)](https://github.com/joaopedroviana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaopedroviana-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/joaopedroviana/)
+**"Knowledge without execution is just theory."**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=120&section=footer)
 
 </div>
