@@ -167,6 +167,8 @@ class JoaoPedro:
 
 ### Bootcamps e Trilhas
 
+### 🎓 Formações e Certificações
+
 <div align="center">
 
 <a href="https://hermes.dio.me/certificates/XU46GMHL.pdf"><img src="https://assets.dio.me/Df8yN8Fzz-EtDWHzS-yMc4_c40nDI865HPaugL9dJQk/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZDNkOTY0YWEtY2E0My00MTU5LTk0MDktMWM4ODYzYjY2YzU5LnBuZw" height="35"/></a>
@@ -195,26 +197,11 @@ class JoaoPedro:
 <a href="https://hermes.dio.me/certificates/SVTACDD1.pdf"><img src="https://assets.dio.me/LQztstYC-_9DhdUaqgGeMeHyWTEnXlwqZyVNTJBDpwI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjFlYTc2ZGQtMDgxOS00NDIzLWI0ZDAtZDkwZDFhZGVhMjk2LnBuZw" height="35"/></a>
 <a href="https://hermes.dio.me/certificates/BZ9TAMEY.pdf"><img src="https://assets.dio.me/8O4Ov__246yP1m1GMFj94m2LxxG3lPwaLMlIdRMDzdE/f:webp/h:120/q:80/L3RyYWNrcy8yNjExMzViOS02N2M5LTQ0MjktYWQyZC00MThjMTFmMWMzNGYucG5n" height="35"/></a>
 <a href="https://hermes.dio.me/certificates/SSQ4FSPO.pdf"><img src="https://hermes.dio.me/tracks/e0b4ad51-a4c7-4e61-a683-c04f6d376e9c.png" height="35"/></a>
+
 <a href="https://www.dio.me/certificate/7VRG2NTW/share"><img src="https://hermes.dio.me/tracks/0cb208b8-6bf4-454b-9b12-9e9418ad0356.png" height="35"/></a>
 <a href="https://www.dio.me/certificate/GUZQESX3/share"><img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="35"/></a>
 <a href="https://www.dio.me/certificate/J7LMDVM4/share"><img src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png" height="35"/></a>
-<a href="https://web.dio.me/track/8f3056da-5877-40e1-bd15-de9ae4d9885d?tab=path"><img src="https://hermes.dio.me/tracks/02ee8de6-37e2-4be7-872d-0d7d94910cae.png" height="35"/></a>
 <a href="https://www.dio.me/certificate/0HBJXLUF/share"><img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="35"/></a>
-<a href="https://web.dio.me/track/bootcamp-squadio"><img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" height="35"/></a>
-<a href="https://web.dio.me/track/microsoft-azure-ai-fundamentals"><img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="35"/></a>
-<a href="https://cursos.alura.com.br/formacao-logica-de-programacao-turma-6-oracle-one"><img src="https://raw.githubusercontent.com/patrickwebsdev/Encriptador-Oracle-Alura/master/img/one.png" height="35"/></a>
-<a href="https://web.dio.me/track/b9ac7102-6e15-42c4-9081-c8b869e7b04a?tab=path"><img src="https://hermes.dio.me/tracks/b092559f-ec20-4401-83e5-d98b6278b7b1.png" height="35"/></a>
-<a href="https://estudarfora.org.br/cursos/cc50/"><img src="https://1000logos.net/wp-content/uploads/2017/02/Harvard-Logo-500x423.png" height="35"/></a>
-<a href="https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path"><img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="35"/></a>
-<a href="https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos?tab=path"><img src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png" height="35"/></a>
-<a href="https://web.dio.me/track/bootcamp-wex-desenvolvimento-net-e-qa"><img src="https://hermes.dio.me/tracks/bad97784-9de1-469b-9409-80343b69b50b.png" height="35"/></a>
-<a href="https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python"><img src="https://hermes.dio.me/tracks/f5dba255-da18-427a-a02a-ca11a339c1cd.png" height="35"/></a>
-<a href="https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python"><img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" height="35"/></a>
-<a href="https://web.dio.me/track/bootcamp-tqi-kotlin"><img src="https://hermes.dio.me/tracks/4c796cee-bef5-4048-8fbe-260527c11f45.png" height="35"/></a>
-<a href="https://web.dio.me/track/orange-tech-backend"><img src="https://hermes.dio.me/tracks/5443980d-31cb-4a9f-8dbd-065773810c04.png" height="35"/></a>
-<a href="https://web.dio.me/track/kotlin-experience"><img src="https://hermes.dio.me/tracks/041777d8-a929-4126-a914-08e69ed3f731.png" height="35"/></a>
-<a href="https://web.dio.me/track/trainee-grupo-carrefour-brasil-lideranca-negra"><img src="https://hermes.dio.me/tracks/12da0c17-5b91-4e81-b6e9-92e3ee3b83f6.png" height="35"/></a>
-<a href="https://web.dio.me/track/pottencial-net-developer"><img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="35"/></a>
 
 </div>
 
